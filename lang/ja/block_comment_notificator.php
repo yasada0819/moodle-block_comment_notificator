@@ -3,6 +3,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'コメント通知';
 $string['blocksummary'] = 'このコースのコメント通知を制御します。';
+$string['editblocksettings'] = '設定を編集';
 
 $string['mode'] = '通知モード';
 $string['mode_desc'] = 'プラグインを無効にするか、サイト全体で通知するか、設定済みのコースブロックだけで通知するかを選択します。';

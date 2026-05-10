@@ -3,6 +3,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Comment notificator';
 $string['blocksummary'] = 'Comment notifications are controlled by this course block.';
+$string['editblocksettings'] = 'Edit settings';
 
 $string['mode'] = 'Notification mode';
 $string['mode_desc'] = 'Choose whether the plugin is disabled, sends notifications site-wide, or only sends notifications from configured course blocks.';
